@@ -1,6 +1,6 @@
 # DorisBlocker
 
-(Shhh2.png)
+![Alt text](Shhh2.png)
 
 My first attempt at creating an adblocker through ruleset and manifest files. 
 
