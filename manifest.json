@@ -8,7 +8,8 @@
         "128": "Shhh2.png"
     },
     "permissions": [
-        "declarativeNetRequest"
+        "declarativeNetRequest",
+        "storage"
     ],
     "declarative_net_request": {
         "rule_resources": [
