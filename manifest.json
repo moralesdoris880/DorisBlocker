@@ -18,5 +18,8 @@
                 "path": "rules.json"
             }
         ]
+    },
+    "action": {
+        "default_popup": "popup.html"
     }
 }
