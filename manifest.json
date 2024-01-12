@@ -1,0 +1,22 @@
+{
+    "name":"Doris Blocker",
+    "version":"1.0.0",
+    "manifest_version": 3,
+    "description": "The best Adblocker extension against advertising and pop-ups. No digital solicitation, thank you.",
+    "icons": {
+        "48": "Shhh.png",
+        "128": "Shhh2.png"
+    },
+    "permissions": [
+        "declarativeNetRequest"
+    ],
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "ruleset_1",
+                "enabled": true,
+                "path": "rules.json"
+            }
+        ]
+    }
+}
